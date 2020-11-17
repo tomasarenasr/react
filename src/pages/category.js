@@ -87,6 +87,7 @@ const CategoryPage = () => {
  </Form > 
 
 </Navbar>
+<h1>HOLA</h1>
 
     <div>
    
@@ -134,7 +135,9 @@ const CategoryPage = () => {
     } </div> </div>
 
     </div>
+    
   )
-}
-
+  
+  }
+  
 export default CategoryPage
